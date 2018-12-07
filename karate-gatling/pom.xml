@@ -5,13 +5,13 @@
     <parent>
         <groupId>com.intuit.karate</groupId>
         <artifactId>karate-parent</artifactId>
-        <version>0.9.0</version>
+        <version>0.8.0.1</version>
     </parent>
     <artifactId>karate-gatling</artifactId>
     <packaging>jar</packaging>
 
     <properties>
-        <gatling.version>2.3.1</gatling.version>
+        <gatling.version>2.2.4</gatling.version>
     </properties>
 
     <dependencies>
